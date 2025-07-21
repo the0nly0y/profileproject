@@ -1,0 +1,90 @@
+ body{
+  background-color: #2a3439;
+}
+span{
+  color: darkgoldenrod; 
+  text-align: center;
+}
+div.skills h2{
+  color: rgb(3, 1, 37);
+  text-align: center;
+  padding: 10px;
+}
+table{
+  width: 70%;
+  border-collapse: collapse;
+  margin: auto;
+}
+th{
+  color:#869c42;
+  padding: 20px;
+  border: 2px solid rgb(3, 1, 37);
+  margin-top: auto;
+}
+tr, td{
+  padding: 20px;
+  border: 2px solid rgb(3, 1, 37);
+  margin-top: auto;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+  background-color:rgb(3, 1, 37);
+  color: brown;
+}
+.logo {
+  font-size: 24px;
+}
+.navbar {
+  display: flex;
+  gap: 20px; /* Space between items */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar li {
+  list-style: none;
+}
+.navbar a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+}
+.gallery-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+.gallery {
+  width: auto;
+  border: 1px solid #ccc;
+  overflow: hidden;
+}
+.gallery img {
+  width: auto;
+  display: block;
+}
+.contact h2{
+  color:rgb(3, 1, 37);
+}
+.gallery:hover {
+  border: 1px solid #777;
+}
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+footer{
+  color: #869c42;
+  background-color:#3c4c55;
+  padding: 10px;
+  text-align: center;
+}
