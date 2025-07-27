@@ -1,13 +1,14 @@
-Myprofile Portfolio Website
+My Portfolio Website
 
-Welcome to my personal portfolio! This site showcases my projects and skills as an aspiring Full-stack developer.
+Welcome to my Personal Portfolio! 
+This site showcases my projects and skills as an aspiring Full-stack developer.
 
-The Technologies I used are:
-- HTML5
-- CSS [For styling my HTML code]
-- Paint [used to resize and optimize images for the web]
-- Github [For ]
-- ChatGPT – for guidance and troubleshooting layout, tags, and styling techniques.
+The Technology used are:
+1. HTML
+2. CSS [For styling the website]
+3. Paint [I used it to resize and optimize the images for the web]
+4. Github [For codes and file collaboration]
+5. ChatGPT – [For guidance and troubleshooting layout, tags, and styling techniques].
 
 What I've learned very well so far
 1. I gained deeper understanding of HTML tags and their usage.
@@ -23,13 +24,12 @@ The challenges I faced in this Recent Project
 2. Properly styling and organizing the table content for a cleaner look.
 3. Adjusting the layout to be both visually appealing and functional.
 4. Deciding on a clean and minimal design that reflects my personality
----
+5. Pushing my project to Github
 
 
-## 🔗 Live Site
-
-Check here to see my site live :
+Click here to view my site live :
 (https://the0nly0y.github.io/profileproject/)
 
 
-> This project is part of my journey to becoming a better developer/designer. Feedback is welcome!
+> This project is part of my journey to becoming a better developer. 
+> I'm always open for feedback it's all part of the learning process!.
