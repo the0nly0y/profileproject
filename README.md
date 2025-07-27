@@ -2,6 +2,7 @@ My Portfolio Website
 
 Welcome to my Personal Portfolio! 
 This site showcases my projects and skills as an aspiring Full-stack developer.
+But for now it only includes a little information about me, my skills competency and some images of me. 
 
 The Technology used are:
 1. HTML
@@ -26,6 +27,8 @@ The challenges I faced in this Recent Project
 4. Deciding on a clean and minimal design that reflects my personality
 5. Pushing my project to Github
 
+Here’s a preview of what the site looks like:
+![MyProfile Screenshot](images/Live_preview.png)
 
 Click here to view my site live :
 (https://the0nly0y.github.io/profileproject/)
